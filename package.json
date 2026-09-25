@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-roundrock",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "City of Round Rock GIS — Round Rock, Texas open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-744782619ae0096b436b7b3ab86cf6f2829e4639e1793c4b7aec58b78a6eb0b7",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-b234e9eeef75a021556be04150e4e5e7693d0cfc43c112214a58570f91ae6b58",
+    "sourceCommit": "454041882179fae560c06e770b6b7a2f33970015"
   }
 }
